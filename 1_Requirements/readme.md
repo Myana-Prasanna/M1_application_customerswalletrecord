@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-* The growth in business also lead to the growth in the need of E-billing applications using Virtual Wallets where all the information regarding the customer transanctions in that departmental store can be maintained online.
+* The growth in business also lead to the growth in the need of E-billing applications using Wallets Records where all the information regarding the customer transanctions in that departmental store can be maintained online.
 * Cutomer Billing System is a console based application where a customer can create and maintain an account. This account contains all the information of the customer and also the account can be edited as and when required.
 
 ## Customer Wallet Record System Features
@@ -29,7 +29,7 @@ Each customer in the system has an account balance, which affects any invoices r
 ## System Definition
 
 ### Integration
-The Customer Virtual Wallet System interacts with :
+The Customer Wallet Record System interacts with :
   * Banking applications
   * Firewalls
   * Authentication gateways
