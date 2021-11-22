@@ -1,11 +1,11 @@
 # Requirements
 ## Introduction
 * The growth in business also lead to the growth in the need of E-billing applications using Wallets Records where all the information regarding the customer transanctions in that departmental store can be maintained online.
-* Cutomer Billing System is a console based application where a customer can create and maintain an account. This account contains all the information of the customer and also the account can be edited as and when required.
+* Customer Wallet Record (Cutomer Billing System) is a console based application where a customer can create and maintain an account. This account contains all the information of the customer and also the account can be edited as and when required.
 
 ## Customer Wallet Record System Features
 
-The main aim of Customer Billing System is to maintain the information and payment history of the customer.It has the capacity to illustrate and analyze the basic billing system and the main functionalities that surround the billing system from a business prospective and explains how each interacts to complete the billing cycle.
+The main aim of Customer Wallet Record (Customer Billing System) is to maintain the information and payment history of the customer.It has the capacity to illustrate and analyze the basic billing system and the main functionalities that surround the billing system from a business prospective and explains how each interacts to complete the billing cycle.
 It capable of billing more quickly, accurately and update customer record and enables customer to view bill information.
 
 ### Services Offered to the Customers
