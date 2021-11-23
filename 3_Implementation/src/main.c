@@ -1,10 +1,6 @@
 /******************************************** 
-Project Name:CUSTOMER VIRTUAL WALLET.
-Author: Kadiyala Vamsi
-SF ID :- 314482
-LTTS Step-In Mini Project 
-Source filename: Customer_Billing.c
-Date: 4th-july-2021.
+Project Name:CUSTOMER WALLET RECORD.
+Author: VEMULA YOGA VENKATA NAGA PAVAN SAI CHAND
 *********************************************/
 
 
@@ -66,7 +62,7 @@ void main()
                 main();
                 break;
             case '6':
-                printf("<<<----------Records Saved Successfully<<>>Thanks For Using:):)--------->>>\n\t<<<<<------PROJECT BY VAMSI------->>>>>");
+                printf("<<<----------Records Saved Successfully<<>>Thanks For Using:):)--------->>>\n\t<<<<<------PROJECT BY PAVAN------->>>>>");
                 exit(0);
                 break;
         }
