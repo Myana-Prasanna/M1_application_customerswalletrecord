@@ -24,7 +24,10 @@ The customer account includes customer contact, profile information, account num
 ### Payments
 Each customer in the system has an account balance, which affects any invoices requested by the customer and any payments done by the customer.
 
-## Cost and Features
+## Features
+* Customer can travel into the store without the money if it is availabe in wallet.
+* He can manage the wallet record by the application.
+* The store management can provide home delivery.
 
 ## System Definition
 
@@ -44,7 +47,23 @@ The Customer Wallet Record System interacts with :
 * Adding Amount to Existing Customer's Wallet
 
 ## SWOT Analysis
-![](SWOT.png)
+
+### Strengths
+* String Relationship with Existing suppliers.
+* Faster and Accurate Billing.
+* Customer can go cashless if they have balance in the account.
+
+### Weaknesses
+* Application would not work in case of network issues.
+* Maintaining a huge database with growing customers can be tedious.
+
+### Opportunities
+* Home delivery facility can be provided.
+* Any information regarding product restocking and new arrivals can be easily conveyed.
+
+### Threats
+* Can be easily replicated.
+* The customers data can be stolen.
 
 # High and Low Level Requirements
 
