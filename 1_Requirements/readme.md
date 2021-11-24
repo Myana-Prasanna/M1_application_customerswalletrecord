@@ -24,6 +24,9 @@ The customer account includes customer contact, profile information, account num
 ### Payments
 Each customer in the system has an account balance, which affects any invoices requested by the customer and any payments done by the customer.
 # 4W and 1H
+## Who:
+This is to maintain the record of customers in local stores
+
 ## What
 This apllication is designed for local grocery stores to manage and maintain a record of customers.
 
