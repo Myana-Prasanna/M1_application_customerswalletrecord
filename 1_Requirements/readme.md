@@ -23,12 +23,18 @@ The customer account includes customer contact, profile information, account num
 
 ### Payments
 Each customer in the system has an account balance, which affects any invoices requested by the customer and any payments done by the customer.
+# 4W and 1H
+## What
+This apllication is designed for local grocery stores to manage and maintain a record of customers.
 
-## Features
-* Customer can travel into the store without the money if it is availabe in wallet.
-* He can manage the wallet record by the application.
-* The store management can provide home delivery.
+## Why
+As we all know in local grocery stores they use books to maintain a record which may be gone or teared etc. By this application the store managers and a customer can maintain there own record and analyse their recors like balance of amount, his information etc.
 
+## Where
+This application is mainly developed for local stores.
+
+## How
+Wallet record is an application that will take input from user or store management such as customer details then it will create account for that customer in the memory and stores every record.
 ## System Definition
 
 ### Integration
