@@ -9,3 +9,5 @@ The main aim of this Project Customer Wallet Record is an application which is d
 [![cppcheck-action](https://github.com/A123456fgh/M1_application_customerswalletrecord/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/A123456fgh/M1_application_customerswalletrecord/actions/workflows/cppcheck.yml)
 
 [![C Build Status](https://github.com/A123456fgh/M1_application_customerswalletrecord/actions/workflows/cbuild.yml/badge.svg)](https://github.com/A123456fgh/M1_application_customerswalletrecord/actions/workflows/cbuild.yml)
+
+[![Unit Testing - Unity](https://github.com/A123456fgh/M1_application_customerswalletrecord/actions/workflows/unity.yml/badge.svg)](https://github.com/A123456fgh/M1_application_customerswalletrecord/actions/workflows/unity.yml)
